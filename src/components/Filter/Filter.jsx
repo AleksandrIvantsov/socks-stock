@@ -1,11 +1,12 @@
+import { Input, Label } from 'components/ContactForm/ContactForm.styled';
 import PropTypes from 'prop-types';
 
 export const Filter = ({ value, onChange }) => {
   return (
-    <label htmlFor="search">
+    <Label htmlFor="search">
       Find contacts by name
-      <input type="text" id="search" value={value} onChange={onChange} />
-    </label>
+      <Input type="text" id="search" value={value} onChange={onChange} />
+    </Label>
   );
 };
 
