@@ -1,6 +1,5 @@
-import { nanoid } from 'nanoid';
 import { Component } from 'react';
-import { ContactForm, ContactList, Filter } from 'components';
+import { ContactList, Filter } from 'components';
 import socks from '../socks.json';
 
 class App extends Component {
