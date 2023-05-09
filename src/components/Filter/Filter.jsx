@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 export const Filter = ({ value, onChange }) => {
   return (
     <Label htmlFor="search">
-      Find contacts by name
+      Пошук за назвою
       <Input type="text" id="search" value={value} onChange={onChange} />
     </Label>
   );

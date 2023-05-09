@@ -1,38 +1,39 @@
 import { nanoid } from 'nanoid';
 import { Component } from 'react';
 import { ContactForm, ContactList, Filter } from 'components';
+import socks from '../socks.json';
 
 class App extends Component {
   state = {
-    contacts: [],
+    contacts: socks,
     filter: '',
   };
 
-  addContact = ({ name, number }) => {
-    const duplicatedContact = this.state.contacts.find(
-      contact => contact.name.toLowerCase() === name.toLowerCase()
-    );
+  // addContact = ({ name, number }) => {
+  //   const duplicatedContact = this.state.contacts.find(
+  //     contact => contact.name.toLowerCase() === name.toLowerCase()
+  //   );
 
-    if (duplicatedContact) {
-      return alert(`${duplicatedContact.name} is already in contacts`);
-    }
+  //   if (duplicatedContact) {
+  //     return alert(`${duplicatedContact.name} is already in contacts`);
+  //   }
 
-    const newContact = {
-      id: nanoid(),
-      name,
-      number,
-    };
+  //   const newContact = {
+  //     id: nanoid(),
+  //     name,
+  //     number,
+  //   };
 
-    this.setState(({ contacts }) => ({
-      contacts: [newContact, ...contacts],
-    }));
-  };
+  //   this.setState(({ contacts }) => ({
+  //     contacts: [newContact, ...contacts],
+  //   }));
+  // };
 
-  deleteContact = contactId => {
-    this.setState(({ contacts }) => ({
-      contacts: contacts.filter(contact => contact.id !== contactId),
-    }));
-  };
+  // deleteContact = contactId => {
+  //   this.setState(({ contacts }) => ({
+  //     contacts: contacts.filter(contact => contact.id !== contactId),
+  //   }));
+  // };
 
   changeFilter = e => {
     this.setState({ filter: e.target.value });
@@ -43,20 +44,18 @@ class App extends Component {
     const normalizedFilter = filter.toLowerCase();
 
     return contacts.filter(contact =>
-      contact.name.toLowerCase().includes(normalizedFilter)
+      contact.title.toLowerCase().includes(normalizedFilter)
     );
   };
 
   render() {
     return (
       <>
-        <h1>Phonebook</h1>
-        <ContactForm onSubmit={this.addContact} />
-        <h2>Contacts</h2>
+        <h1>Наявність шкарпеток</h1>
         <Filter value={this.state.filter} onChange={this.changeFilter} />
         <ContactList
           contacts={this.getVisibleContacts()}
-          onDeleteContact={this.deleteContact}
+          // onDeleteContact={this.deleteContact}
         />
       </>
     );
