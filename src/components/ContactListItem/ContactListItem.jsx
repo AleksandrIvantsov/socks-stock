@@ -1,21 +1,28 @@
 // import { Button } from 'components/ContactForm/ContactForm.styled';
 import PropTypes from 'prop-types';
-import { Li, Span } from './ContactListItem.styled';
+import css from './TransactionHistory.module.css';
 
 export const ContactListItem = ({ contacts }) => {
-  return contacts.map(contact => (
-    <Li key={contact.id}>
-      <Span>{contact.title}</Span>
-      {/* <Button
-        type="button"
-        onClick={() => onDeleteContact(contact.id)}
-        onMouseDown={e => (e.target.style.backgroundColor = '#3e7fe9')}
-        onMouseUp={e => (e.target.style.backgroundColor = 'transparent')}
-      >
-        Delete
-      </Button> */}
-    </Li>
-  ));
+  return (
+    <table className={css.transactionHistory}>
+      <thead>
+        <tr>
+          <th>Назва</th>
+          <th>Наявність</th>
+        </tr>
+      </thead>
+      <tbody>
+        {contacts.map(contact => (
+          <tr key={contact.id}>
+            <td>{contact.title}</td>
+            <td className={contact.inStock ? css.inStock : css.outOfStock}>
+              {contact.inStock ? 'є у наявності' : 'немає у наявності'}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
 };
 
 ContactListItem.propTypes = {

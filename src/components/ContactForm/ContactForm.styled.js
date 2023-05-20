@@ -15,11 +15,14 @@ export const Button = styled.button`
 
 export const Label = styled.label`
   display: block;
+  width: 200px;
+  margin: 0 auto;
 `;
 
 export const Input = styled.input`
   display: block;
   margin: 5px 0 15px 0;
+  height: 30px;
 `;
 
 export const Form = styled.form`
