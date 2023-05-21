@@ -1,0 +1,10 @@
+.filter {
+  width: 470px;
+  margin: 0 auto;
+}
+
+.filter input {
+  width: 200px;
+  height: 30px;
+  margin: 0 10px;
+}

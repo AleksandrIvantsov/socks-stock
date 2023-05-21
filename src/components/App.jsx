@@ -38,6 +38,18 @@ class App extends Component {
     this.setState({ filter: e.target.value });
   };
 
+  changeFilterByClick = value => {
+    this.setState({ filter: value });
+  };
+
+  changeFilterBySize = value => {
+    this.setState({ filter: `${this.state.filter} ${value}` });
+  };
+
+  resetFilter = () => {
+    this.setState({ filter: '' });
+  };
+
   getVisibleContacts = () => {
     const { filter, contacts } = this.state;
     const normalizedFilter = filter.toLowerCase();
@@ -51,9 +63,15 @@ class App extends Component {
     return (
       <>
         <h1>Наявність шкарпеток</h1>
-        <Filter value={this.state.filter} onChange={this.changeFilter} />
+        <Filter
+          value={this.state.filter}
+          onChange={this.changeFilter}
+          onReset={this.resetFilter}
+        />
         <ContactList
           contacts={this.getVisibleContacts()}
+          onClick={this.changeFilterByClick}
+          onSize={this.changeFilterBySize}
           // onDeleteContact={this.deleteContact}
         />
       </>

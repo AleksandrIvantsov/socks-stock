@@ -14,7 +14,9 @@ export const ContactListItem = ({ contacts }) => {
       <tbody>
         {contacts.map(contact => (
           <tr key={contact.id}>
-            <td>{contact.title}</td>
+            <td className={contact.inStock ? css.inStock : css.outOfStock}>
+              {contact.title}
+            </td>
             <td className={contact.inStock ? css.inStock : css.outOfStock}>
               {contact.inStock ? 'є у наявності' : 'немає у наявності'}
             </td>

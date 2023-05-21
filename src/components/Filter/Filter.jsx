@@ -1,12 +1,17 @@
-import { Input, Label } from 'components/ContactForm/ContactForm.styled';
 import PropTypes from 'prop-types';
+import css from './Filter.module.css';
 
-export const Filter = ({ value, onChange }) => {
+export const Filter = ({ value, onChange, onReset }) => {
   return (
-    <Label htmlFor="search">
-      Пошук за назвою
-      <Input type="text" id="search" value={value} onChange={onChange} />
-    </Label>
+    <div className={css.filter}>
+      <label htmlFor="search">
+        Пошук за назвою:
+        <input type="text" id="search" value={value} onChange={onChange} />
+      </label>
+      <button type="button" onClick={onReset}>
+        Очистити
+      </button>
+    </div>
   );
 };
 
