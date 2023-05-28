@@ -42,6 +42,18 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             <button type="button" onClick={() => onClick('М-111')}>
               М-111 спорт середні
             </button>
+            <button type="button" onClick={() => onClick('М-113')}>
+              М-113 високі сітка
+            </button>
+            <button type="button" onClick={() => onClick('М-116')}>
+              М-116 слідки
+            </button>
+            <button type="button" onClick={() => onClick('М-117')}>
+              М-117 спорт середні сітка
+            </button>
+            <button type="button" onClick={() => onClick('М-119')}>
+              М-119 класика
+            </button>
             <button type="button" onClick={() => onClick('М-122')}>
               М-122 короткі
             </button>
