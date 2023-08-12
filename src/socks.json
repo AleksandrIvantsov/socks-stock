@@ -1602,17 +1602,17 @@
   {
     "id": "М-1033102",
     "title": "М-103 31 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "М-1033103",
     "title": "М-103 31 Світло-сірий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-1033104",
     "title": "М-103 31 Бежевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-1033105",
