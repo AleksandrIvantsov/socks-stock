@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/socks-stock/static/css/main.d80c709c.css",
-    "main.js": "/socks-stock/static/js/main.e2b51041.js",
+    "main.js": "/socks-stock/static/js/main.bbf9c45c.js",
     "index.html": "/socks-stock/index.html",
     "main.d80c709c.css.map": "/socks-stock/static/css/main.d80c709c.css.map",
-    "main.e2b51041.js.map": "/socks-stock/static/js/main.e2b51041.js.map"
+    "main.bbf9c45c.js.map": "/socks-stock/static/js/main.bbf9c45c.js.map"
   },
   "entrypoints": [
     "static/css/main.d80c709c.css",
-    "static/js/main.e2b51041.js"
+    "static/js/main.bbf9c45c.js"
   ]
 }
