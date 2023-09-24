@@ -110,6 +110,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             <button type="button" onClick={() => onClick('Ж-113')}>
               Ж-113 слідки
             </button>
+            <button type="button" onClick={() => onClick('Ж-117')}>
+              Ж-117 утеплені
+            </button>
             <button type="button" onClick={() => onClick('Ж-118')}>
               Ж-118 підслідники
             </button>
