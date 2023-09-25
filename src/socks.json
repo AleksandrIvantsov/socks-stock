@@ -1292,7 +1292,7 @@
   {
     "id": "ЖА-121232501",
     "title": "Ж-121 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232502",
@@ -1302,22 +1302,22 @@
   {
     "id": "ЖА-121232503",
     "title": "Ж-121 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232504",
     "title": "Ж-121 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232505",
     "title": "Ж-121 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232506",
     "title": "Ж-121 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232511",
@@ -1732,17 +1732,17 @@
   {
     "id": "М-1033102",
     "title": "М-103 31 Білий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-1033103",
     "title": "М-103 31 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "М-1033104",
     "title": "М-103 31 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "М-1033105",
