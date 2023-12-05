@@ -1217,37 +1217,37 @@
   {
     "id": "ЖА-110232501",
     "title": "Ж-110 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232502",
     "title": "Ж-110 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232503",
     "title": "Ж-110 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232504",
     "title": "Ж-110 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232505",
     "title": "Ж-110 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232506",
     "title": "Ж-110 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232511",
     "title": "Ж-110 Світло-рожевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232513",
@@ -1262,57 +1262,57 @@
   {
     "id": "ЖА-110232516",
     "title": "Ж-110 Блакитний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232518",
     "title": "Ж-110 Жовтий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110232530",
     "title": "Ж-110 Персиковий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110А232598",
     "title": "Ж-110 Асорті 12 пар (Кольорове)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-110А232599",
     "title": "Ж-110 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232501",
     "title": "Ж-111 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232502",
     "title": "Ж-111 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232503",
     "title": "Ж-111 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232504",
     "title": "Ж-111 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232505",
     "title": "Ж-111 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232506",
     "title": "Ж-111 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232511",
@@ -1327,12 +1327,12 @@
   {
     "id": "ЖА-111232515",
     "title": "Ж-111 Бірюзовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232516",
     "title": "Ж-111 Блакитний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111232518",
@@ -1347,12 +1347,12 @@
   {
     "id": "ЖА-111А232598",
     "title": "Ж-111 Асорті 12 пар (Кольорове)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-111А232599",
     "title": "Ж-111 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-125А232598",
@@ -1362,142 +1362,142 @@
   {
     "id": "ЖА-121232501",
     "title": "Ж-121 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232502",
     "title": "Ж-121 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232503",
     "title": "Ж-121 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232504",
     "title": "Ж-121 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232505",
     "title": "Ж-121 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232506",
     "title": "Ж-121 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232511",
     "title": "Ж-121 Світло-рожевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232513",
     "title": "Ж-121 Бузковий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232515",
     "title": "Ж-121 Бірюзовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232516",
     "title": "Ж-121 Блакитний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232518",
     "title": "Ж-121 Жовтий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121232530",
     "title": "Ж-121 Персиковий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121А232598",
     "title": "Ж-121 Асорті 12 пар (Кольорове)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-121А232599",
     "title": "Ж-121 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232501",
     "title": "Ж-140 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232502",
     "title": "Ж-140 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232503",
     "title": "Ж-140 Світло-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232504",
     "title": "Ж-140 Бежевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232505",
     "title": "Ж-140 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232506",
     "title": "Ж-140 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232511",
     "title": "Ж-140 Світло-рожевий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232513",
     "title": "Ж-140 Бузковий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232515",
     "title": "Ж-140 Бірюзовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232516",
     "title": "Ж-140 Блакитний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232518",
     "title": "Ж-140 Жовтий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140232530",
     "title": "Ж-140 Персиковий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140А232598",
     "title": "Ж-140 Асорті 12 пар (Кольорове)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "ЖА-140А232599",
     "title": "Ж-140 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "М-1022301",
@@ -2757,12 +2757,12 @@
   {
     "id": "МА-111252701",
     "title": "М-111 25-27 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111252702",
     "title": "М-111 25-27 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111252703",
@@ -2777,12 +2777,12 @@
   {
     "id": "МА-111252705",
     "title": "М-111 25-27 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111252706",
     "title": "М-111 25-27 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111252708",
@@ -2817,12 +2817,12 @@
   {
     "id": "МА-111272901",
     "title": "М-111 27-29 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111272902",
     "title": "М-111 27-29 Білий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111272903",
@@ -2837,12 +2837,12 @@
   {
     "id": "МА-111272905",
     "title": "М-111 27-29 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111272906",
     "title": "М-111 27-29 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111272908",
@@ -2877,7 +2877,7 @@
   {
     "id": "МА-111293101",
     "title": "М-111 29-31 Чорний (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111293102",
@@ -2897,12 +2897,12 @@
   {
     "id": "МА-111293105",
     "title": "М-111 29-31 Темно-сірий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111293106",
     "title": "М-111 29-31 Джинсовий (10 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111293108",
@@ -2937,12 +2937,12 @@
   {
     "id": "МА-111А252798",
     "title": "М-111 25-27 Асорті 12 пар (Кольорове)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "МА-111А252799",
     "title": "М-111 25-27 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111А272998",
@@ -2952,7 +2952,7 @@
   {
     "id": "МА-111А272999",
     "title": "М-111 27-29 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-111А293198",
@@ -2962,7 +2962,7 @@
   {
     "id": "МА-111А293199",
     "title": "М-111 29-31 Асорті 12 пар (6 кольорів)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "МА-122252701",
