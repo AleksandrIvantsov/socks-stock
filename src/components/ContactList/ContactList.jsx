@@ -9,6 +9,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
         <div className={css.menBtns}>
           <div>
             <h2>Чоловічі</h2>
+            <button type="button" onClick={() => onClick('М-101')}>
+              М-101 високі
+            </button>
             <button type="button" onClick={() => onClick('М-102')}>
               М-102 високі сітка
             </button>
