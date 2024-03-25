@@ -75,6 +75,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             <button type="button" onClick={() => onClick('М-132')}>
               М-132 спорт середні махр слід
             </button>
+            <button type="button" onClick={() => onClick('М-133')}>
+              М-133 класика середні
+            </button>
           </div>
           <div>
             <h2>Розміри чоловічих</h2>
@@ -112,6 +115,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             <h2>Жіночі</h2>
             <button type="button" onClick={() => onClick('Ж-101')}>
               Ж-101 короткі
+            </button>
+            <button type="button" onClick={() => onClick('Ж-102')}>
+              Ж-102 високі сітка
             </button>
             <button type="button" onClick={() => onClick('Ж-103')}>
               Ж-103 класика
@@ -151,6 +157,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             </button>
             <button type="button" onClick={() => onClick('Ж-125')}>
               Ж-125 махра середні
+            </button>
+            <button type="button" onClick={() => onClick('Ж-127')}>
+              Ж-127 класика середні
             </button>
             <button type="button" onClick={() => onClick('Ж-128')}>
               Ж-128 короткі махр слід
