@@ -155,6 +155,9 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             <button type="button" onClick={() => onClick('Ж-121')}>
               Ж-121 класика
             </button>
+            <button type="button" onClick={() => onClick('Ж-124')}>
+              Ж-124 ажурні
+            </button>
             <button type="button" onClick={() => onClick('Ж-125')}>
               Ж-125 махра середні
             </button>
@@ -166,6 +169,12 @@ export const ContactList = ({ contacts, onClick, onSize }) => {
             </button>
             <button type="button" onClick={() => onClick('Ж-129')}>
               Ж-129 спорт середні махр слід
+            </button>
+            <button type="button" onClick={() => onClick('Ж-130')}>
+              Ж-130 без резинки
+            </button>
+            <button type="button" onClick={() => onClick('Ж-131')}>
+              Ж-131 fashion
             </button>
             <button type="button" onClick={() => onClick('Ж-140')}>
               Ж-140 короткі
