@@ -1262,7 +1262,7 @@
   {
     "id": "Ж-117232506",
     "title": "Ж-117 Джинсовий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-117232507",
@@ -4777,47 +4777,47 @@
   {
     "id": "М-120252705",
     "title": "М-120 25-27 Темно-сірий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120272905",
     "title": "М-120 27-29 Темно-сірий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120293105",
     "title": "М-120 29-31 Темно-сірий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120252708",
     "title": "М-120 25-27 Коричневий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120272908",
     "title": "М-120 27-29 Коричневий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120293108",
     "title": "М-120 29-31 Коричневий (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120А252700",
     "title": "М-120 25-27 Асорті (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120А272900",
     "title": "М-120 27-29 Асорті (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "М-120А293100",
     "title": "М-120 29-31 Асорті (6 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "МА-128252701",
@@ -5072,7 +5072,7 @@
   {
     "id": "ЖА-129232501",
     "title": "Ж-129 23-25 Чорний (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "ЖА-129232502",
