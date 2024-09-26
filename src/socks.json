@@ -817,12 +817,12 @@
   {
     "id": "Ж-1072325ОрнаментВідворот",
     "title": "Ж-107ОрнаментВідворот Асорті (12 пар)",
-    "inStock": false
+    "inStock": true
   },
   {
     "id": "Ж-1072325СнігВідворот",
     "title": "Ж-107СнігВідворот Асорті (12 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-1072325Лілія2Кольори",
@@ -1327,52 +1327,52 @@
   {
     "id": "Ж-118364001",
     "title": "Ж-118 Чорний (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364002",
     "title": "Ж-118 Білий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364003",
     "title": "Ж-118 Світло-сірий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364004",
     "title": "Ж-118 Бежевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364006",
     "title": "Ж-118 Джинсовий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364011",
     "title": "Ж-118 Світло-рожевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364013",
     "title": "Ж-118 Бузковий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364017",
     "title": "Ж-118 Морська хвиля (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118364028",
     "title": "Ж-118 Зелений (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-118А364098",
     "title": "Ж-118 Асорті 12 пар (Кольорове)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "ЖА-110232501",
