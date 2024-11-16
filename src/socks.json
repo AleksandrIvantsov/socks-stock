@@ -622,62 +622,62 @@
   {
     "id": "Ж-103232509",
     "title": "Ж-103 Фіолетовий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232511",
     "title": "Ж-103 Світло-рожевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232512",
     "title": "Ж-103 Темно-червоний (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232513",
     "title": "Ж-103 Бузковий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232514",
     "title": "Ж-103 Світло-бірюзовий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232515",
     "title": "Ж-103 Бірюзовий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232517",
     "title": "Ж-103 Морська хвиля (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232518",
     "title": "Ж-103 Жовтий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232519",
     "title": "Ж-103 Помаранчевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232520",
     "title": "Ж-103 Рожевий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232521",
     "title": "Ж-103 Оливковий (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232524",
     "title": "Ж-103 Синій (10 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103232525",
@@ -687,7 +687,7 @@
   {
     "id": "Ж-103А232598",
     "title": "Ж-103 Асорті 12 пар (Кольорове)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-103А232599",
@@ -1012,7 +1012,7 @@
   {
     "id": "Ж-1122325Вишиванка",
     "title": "Ж-112Вишиванка Асорті (12 пар)",
-    "inStock": true
+    "inStock": false
   },
   {
     "id": "Ж-1122325Love",
